@@ -4,6 +4,6 @@ public class InsertionSort {
 
     public static void insertioSort(){
 
-
+           System.out.println("Push Alex");
     }
 }
